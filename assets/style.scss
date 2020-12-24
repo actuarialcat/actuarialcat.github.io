@@ -705,6 +705,11 @@ Modules - reusable parts of our design
   color: #fff;
 }
 
+.entry p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .pagination a, .pagination span {
   padding: 7px 18px;
   border: 1px solid #eee;
