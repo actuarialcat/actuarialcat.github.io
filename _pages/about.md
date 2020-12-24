@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hello
-
-I am a final year actuarial science student in Hong Kong.
+Hello! I am a final year actuarial science student in Hong Kong.
 
 This blog is mainly about the projects I completed and some ideas related to the actuarial field. 
 
