@@ -3,7 +3,7 @@ layout: post
 title:  How I passed all 7 SOA actuarial preliminary exams in two and a half years
 date:   2020-12-24
 categories: [Actuarial, Exams]
-excerpt:
+excerpt: I'm excited to share some studying strategies that I've used to pass 7 actuarial exams on the first attempt in two and a half years. Passing 7 exams may seem difficult at first, but it is feasible with the right method and determination.
 ---
 
 ![Actuarial lookup exam results](/images/article_images/2020-12-24-How-to-pass-7-SOA/cover.png)
