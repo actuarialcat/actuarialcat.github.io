@@ -14,7 +14,18 @@ excerpt:
 
 ### 1. Make a timetable and stick to it
 
+There is an old chinese saying "A Year’s Plan Starts with Spring".
+Planning ahead is very important because it enocurage discipline and provides a sense of secuirty.
+When I follow my plan, I know that I am not falling behind and have adequte time to study.
+I won't panic and rush throught books, nor will I ran out of time to practise. 
 
+Therefore, the first thing I do when I decided to take a exam is to create a Excel study schedule.
+I then count the number of days I have until the exam and allocate them for reading each chapter of each book with repested to number of pages in that chapter.
+When I finsish each chapter, I record the date in my Excel file. By doing so, I verify that I am on schedule.
+
+At first sight, reading 3-4 books per exam is quite daunting.
+However, spreading them to 4-5 months and it seems very doable.
+Just keep clam and follow the plan. 3 exams per year is very practical without a deal with the devil.
 
 
 ### 2. Don't buy study manual, make your own notes
@@ -45,7 +56,11 @@ Two, I never ever need to open the textbooks again becuase I have everything I n
 If I forget anything, I only need to search for it in my note. No more wasting time searching through 400+ pages of textbooks.
 
 
-When I am done reading a textbook, the book goes away. My notes is all I need when revising and practising for the exams.
+When I am done reading a textbook twice, the book goes away.
+There is no such thing as saving a difficult topic for latter. This is no going back.
+This is how I make sure my every second when holding a book do not go to waste, cause never need to look back.
+When I do practise question, I only need to refresh my memeory with my own notes.
+And I can understand every symbol in my own notes, obviously, becuase I wrote them.
 
 
 
@@ -64,7 +79,8 @@ I just need to make sure I didn't miss a chapter or misread something.
 What if I already complete the questions once? I will do it again.
 By doing so, I build familiarity and confidence.
 With more confidence, I am less likely to second guess my answer and go with my instincts.
-To be hornest, the exam questions are very repetitive.
+Compeleting the sample question 2-3 times is adequate for me to feel safe and confidence.
+To be hornest, the exam questions are also very repetitive.
 You definite have learnt a way to solve it.
 When facing diffcult questions, I will just fall back to first principals and try multiple approach until it works. And, it works.
 
