@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Pricing a marriage insurance product"
-date:   2020-12-10 14:30:00
-categories: actuarial_projects
-tags: actuarial
-image: /assets/article_images/2020-12-10-marriversary/cover.png
-image2: /assets/article_images/2020-12-10-marriversary/cover.png
+title:  Can love be insured?
+date:   2020-12-10
+categories: [Actuarial, Project]
 ---
 
 # Can love be insured?
