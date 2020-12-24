@@ -5,13 +5,7 @@ date:   2020-12-10
 categories: [Actuarial, Project]
 ---
 
-# Can love be insured?
-
 Bla Bla Bla
-
-
-
-
 
 
 # What's more
