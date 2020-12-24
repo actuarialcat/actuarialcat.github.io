@@ -3,6 +3,7 @@ layout: post
 title:  Can love be insured?
 date:   2020-12-10
 categories: [Actuarial, Project]
+excerpt:
 ---
 
 ![alt text](/images/article_images/2020-12-10-Can-love-be-insured/cover.png)
