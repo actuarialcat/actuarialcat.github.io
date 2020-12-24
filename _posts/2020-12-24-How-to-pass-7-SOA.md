@@ -41,36 +41,47 @@ During the first time, I highlight key point and try to have a general idea what
 During the second time, I make sure I understand each and every concept and summerise them in my notes using my own words.
 There is two benefits for this.
 One, I ensure I digest all concepts and able to present them on my own. If I can present a concept, I can answer exam questions about it.
-Two, I never ever will open the textbooks again becuase I have everything I need in my notes.
+Two, I never ever need to open the textbooks again becuase I have everything I need in my notes.
 If I forget anything, I only need to search for it in my note. No more wasting time searching through 400+ pages of textbooks.
 
 
 When I am done reading a textbook, the book goes away. My notes is all I need when revising and practising for the exams.
 
 
+
 ### 3. SOA sample questions is more than enough
 
-Before asking **how much** practise questions do we need, let's try to figure out **why** do we need them.
+Before asking **how much** practice questions do we need, let's try to figure out **why** do we need them.
+For me, practice questions have 2 purpose: accustom me to the question types, and verify I learn all the require concepts.
 
+Why SOA sample question is enough?
+First, those sample questions are prepared by SOA themselves. It is the closest to the real exam questions.
+I even feel that the difficulty level is the same as the real exam.
+Second, ~100 questions is able to cover almost every concept required in a exam.
+Since I focus on understand the material, I don't need to train for every possible variation of the questions.
+I just need to make sure I didn't miss a chapter or misread something.
 
-
-
-
-
+What if I already complete the questions once? I will do it again.
+By doing so, I build familiarity and confidence.
+With more confidence, I am less likely to second guess my answer and go with my instincts.
+To be hornest, the exam questions are very repetitive.
+You definite have learnt a way to solve it.
+When facing diffcult questions, I will just fall back to first principals and try multiple approach until it works. And, it works.
 
 
 
 ### 4. There is no shortcuts
 
 Success don't come easy. 
-Passing actuarial exams require huge amount of commitment.
+Passing actuarial exams requires huge amount of commitment.
 SOA exams is not only a test of intelligence, but also a test of determination.
 
 Moreover, from my prepective, if you pass an exam only by study the questions but not understanding the concepts, you incure a debt.
-You trade off the abililblty to understand more diffuclt concepts latter on and will likely stuggle in latter exams.
+You trade off the ability to understand more diffuclt concepts latter on and will likely stuggle in latter exams.
 That's why I find building a strong foundation is the most important.
 
-But there is one things that I can garentee: The feeling of success after passing an exam will be second to none.
+But there is one things that I can guarentee: The feeling of success after passing the exams will be second to none.
+
 
 
 <p>&nbsp; &nbsp;</p>
