@@ -5,7 +5,7 @@ date:   2020-12-24
 categories: [Actuarial, Exams]
 ---
 
-![alt text](images\article_images\2020-12-24-How-to-pass-7-SOA\cover.png)
+![alt text](/images/article_images/2020-12-24-How-to-pass-7-SOA/cover.png)
 
 
 ## 1. Make a timetable and stick to it
