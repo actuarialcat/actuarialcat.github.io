@@ -5,7 +5,10 @@ date:   2020-12-10
 categories: [Actuarial, Project]
 ---
 
+![alt text](images\article_images\2020-12-10-marriversary\cover.png)
+
 Bla Bla Bla
+
 
 
 # What's more
