@@ -66,13 +66,13 @@ Passing actuarial exams require huge amount of commitment.
 SOA exams is not only a test of intelligence, but also a test of determination.
 
 Moreover, from my prepective, if you pass an exam only by study the questions but not understanding the concepts, you incure a debt.
-You trade off the abililblty to understand more diffuclt concepts latter on and stuggle is latter exams.
+You trade off the abililblty to understand more diffuclt concepts latter on and will likely stuggle in latter exams.
 That's why I find building a strong foundation is the most important.
 
 But there is one things that I can garentee: The feeling of success after passing an exam will be second to none.
 
 
-<p>&nbsp;</p>
+<p>&nbsp; &nbsp;</p>
 
 That is all I have for now.
 I hope my jouney throguh the prelim exams can inspire yours.
