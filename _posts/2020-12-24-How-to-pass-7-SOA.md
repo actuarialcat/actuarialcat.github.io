@@ -10,6 +10,7 @@ excerpt:
 
 I'm excited to share some studying strategies that I've used to pass 7 actuarial exams on the first attempt in two and a half years.
 Passing 7 exam may seem difficult at first, but it is totally feasible with the right method and determination.
+
 I strategies I shared works very well for me, but it doesn't mean it will work for everybody.
 I hope this can help you to formula your own unique stratedy and pass exams.
 
