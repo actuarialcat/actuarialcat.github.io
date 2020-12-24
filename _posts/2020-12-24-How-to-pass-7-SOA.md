@@ -60,7 +60,7 @@ If I forget anything, I only need to search for it in my note. No more wasting t
 
 When I am done reading a textbook twice, the book goes away.
 There is no such thing as saving a difficult topic for later. This is no going back.
-This is how I make sure my every second when holding a book does not go to waste, cause never need to look back.
+This is how I make sure my every second when holding a book does not go to waste, cause I never need to look back.
 When I do practice questions, I only need to refresh my memory with my notes.
 And I can understand every symbol in my notes, obviously, because I wrote them.
 
@@ -80,7 +80,7 @@ I just need to make sure I didn't miss a chapter or misread something.
 
 What if I already complete the questions once? I will do it again.
 By doing so, I build familiarity and confidence.
-With more confidence, I am less likely to second guess my answer and go with my instincts.
+With more confidence, I am less likely to second guess my answer and I will go with my instincts.
 Completing the sample question 2-3 times is adequate for me to feel safe and confident.
 To be honest, the exam questions are also very repetitive.
 You definitely have learned a way to solve it.
@@ -106,7 +106,7 @@ But there is one thing that I can guarantee: The feeling of success after passin
 
 That is all I have for now.
 I hope my journey through the prelim exams can inspire yours.
-Feel free to connect with me or message me on [LinkedIn](https://www.linkedin.com/in/jackson-leung-805828174/), especially if you are interested in my study schedules.
+Feel free to connect with me or message me on [LinkedIn](https://www.linkedin.com/in/jackson-leung-805828174/), especially if you are interested in my Excel study schedules.
 
 
 
