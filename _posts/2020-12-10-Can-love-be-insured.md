@@ -8,8 +8,7 @@ excerpt:
 
 ![alt text](/images/article_images/2020-12-10-Can-love-be-insured/cover.png)
 
-Bla Bla Bla
-
+To be written.......
 
 
 # What's more

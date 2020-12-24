@@ -16,6 +16,7 @@ excerpt:
 
 
 
+
 ### 2. Don't buy study manual, make your own notes
 
 I see a difference between studying actuarial concept and studing for an exam.
@@ -29,7 +30,7 @@ On the other hand, if I just memeorize a concept, it is imposible for me adapt i
 Moreover, it always leads to fustration when forgeting something or forcing myself to memorise concept without questioning it.
 
 
-That is the main reason why I never learn from study manuals, they doesn't really explain the ideas behind the concepts.
+That is the main reason why I never learn from study manuals, they doesn't really fully explain the ideas behind the concepts.
 (And they are too expensive.)
 I did not spend a single dollar in purchasing study materials as
 I was able to find all textbooks either in my university library or online.
@@ -76,8 +77,7 @@ But there is one things that I can garentee: The feeling of success after passin
 
 That is all I have for now.
 I hope my jouney throguh the prelim exams can inspire yours.
-
-Feel free to connect with or message me on [LinkedIn](https://www.linkedin.com/in/jackson-leung-805828174/), especially if you are interested in my study schedules.
+Feel free to connect with me or message me on [LinkedIn](https://www.linkedin.com/in/jackson-leung-805828174/), especially if you are interested in my study schedules.
 
 
 
