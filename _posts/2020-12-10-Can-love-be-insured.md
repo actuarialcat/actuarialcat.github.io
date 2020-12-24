@@ -5,7 +5,7 @@ date:   2020-12-10
 categories: [Actuarial, Project]
 ---
 
-![alt text](images\article_images\2020-12-10-Can love be insured\cover.png)
+![alt text](images\article_images\2020-12-10-Can-love-be-insured\cover.png)
 
 Bla Bla Bla
 
