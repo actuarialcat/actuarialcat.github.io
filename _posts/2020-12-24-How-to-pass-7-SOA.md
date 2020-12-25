@@ -24,12 +24,22 @@ Planning is very important because it encourages discipline and provides a sense
 When I follow my plan, I know that I am not falling behind and have adequate time to study.
 I won't panic and rush through books, nor will I ran out of time to practice. 
 
-Therefore, the first thing I do when I decided to take an exam is to create an Excel study schedule.
+It is also very important to plan earier.
+I usually start planning at least 4 months before an exam.
+4 months seems alot, but it doesn't mean I am studying every second during that time. 
+I only need to read less than 10 pages each day on average, which can be fully integrate into my lifestyle without sacrificing anything significant. (OK, maybe less time for social media.)
+I was able to take a full university course load or an full-time intership and work on other projects during the same time.
+
+So, the first thing I do when planning is to create an Excel study schedule.
 I then count the number of days I have until the exam and allocate them for reading each chapter of each book with respect to the number of pages in that chapter.
 When I finish each chapter, I record the date in my Excel file. By doing so, I verify that I am on schedule.
+I target to finish reading 30 days before the exam and use the rest of the time for practising.
+Similary, 30 days doesn't mean I shut myself away and study.
+It take less than a hour per day on average.
+(I will explain more below in section 3.)
 
 At first sight, reading 3-4 books per exam is quite daunting.
-However, spreading them to 4-5 months and it seems very doable.
+However, spreading them to 3 months and it becomes very doable.
 Just keep calm and follow the plan. 3 exams per year are very practical without a deal with the devil.
 
 
@@ -81,7 +91,7 @@ I just need to make sure I didn't miss a chapter or misread something.
 What if I already complete the questions once? I will do it again.
 By doing so, I build familiarity and confidence.
 With more confidence, I am less likely to second guess my answer and I will go with my instincts.
-Completing the sample question 2-3 times is adequate for me to feel safe and confident.
+Completing the sample question 2-3 times is adequate for me to feel safe and confident. Anything more is non-necessary.
 To be honest, the exam questions are also very repetitive.
 You definitely have learned a way to solve it.
 When facing difficult questions, I will just fall back to first principles and try multiple approaches until it works. And, it works.
