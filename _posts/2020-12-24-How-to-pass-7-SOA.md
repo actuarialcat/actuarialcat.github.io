@@ -11,7 +11,7 @@ excerpt: I'm excited to share some studying strategies that I've used to pass 7 
 I'm excited to share some studying strategies that I've used to pass 7 actuarial exams on the first attempt in two and a half years.
 Passing 7 exams may seem difficult at first, but it is feasible with the right method and determination.
 
-I strategies I shared works very well for me, but it doesn't mean it will work for everybody.
+The strategies I shared works very well for me, but it doesn't mean it will work for everybody.
 I hope this can help you to formulate your unique strategy and pass exams.
 
 OK, let's get to it!
@@ -32,7 +32,7 @@ I was able to take a full university course load or a full-time internship and w
 
 So, the first thing I do when planning is to create an Excel study schedule.
 I then count the number of days I have until the exam and allocate them for reading each chapter of each book with respect to the number of pages in that chapter.
-When I finish each chapter, I record the date in my Excel file. By doing so, I verify that I am on schedule.
+When I finish each chapter, I record the date in my Excel file to I verify that I am on schedule.
 I target to finish reading 30 days before the exam and use the rest of the time for practice.
 Similarly, 30 days doesn't mean I shut myself away and study.
 It takes less than an hour per day on average.
@@ -53,7 +53,7 @@ I personally prefer the first.
 When I study, I focus on understanding the concepts instead of memorizing, because by understanding the concept, all those complicated theories become much more intuitive.
 I can easily derive and adapt my knowledge to any situation. It quickly becomes second nature without much effort.
 On the other hand, if I just memorize a concept, I can't adapt if the question changes a bit.
-Moreover, it always leads to frustration when forgeting something or forcing myself to memorize concepts without questioning them.
+Moreover, it always leads to frustration when forgeting something.
 
 That is the main reason why I never learn from study manuals, they don't fully explain the ideas behind the concepts.
 (And they are too expensive.)
@@ -70,7 +70,7 @@ If I forget anything, I only need to search for it in my note. No more wasting t
 
 When I am done reading a textbook twice, the book goes away.
 There is no such thing as saving a difficult topic for later. This is no going back.
-This is how I make sure my every second when holding a book does not go to waste, cause I never need to look back.
+This is how I make sure my every second when holding a book does not go to waste.
 When I do practice questions, I only need to refresh my memory with my notes.
 And I can understand every symbol in my notes, obviously, because I wrote them.
 
@@ -91,7 +91,7 @@ I just need to make sure I didn't miss a chapter or misread something.
 What if I already complete the questions once? I will do it again.
 By doing so, I build familiarity and confidence.
 With more confidence, I am less likely to second guess my answer and I will go with my instincts.
-Completing the sample question 2-3 times is adequate for me to feel safe and confident.
+Completing the sample questions 2-3 times is adequate for me to feel safe and confident.
 Anything more is unnecessary.
 To be honest, the exam questions are also very repetitive.
 You definitely have learned a way to solve it.
@@ -117,7 +117,7 @@ But there is one thing that I can guarantee: The feeling of success after passin
 
 That is all I have for now.
 I hope my journey through the prelim exams can inspire yours.
-Feel free to connect with me or message me on [LinkedIn](https://www.linkedin.com/in/jackson-leung-805828174/), especially if you are interested in my Excel study schedules.
+Feel free to connect with me and message me on [LinkedIn](https://www.linkedin.com/in/jackson-leung-805828174/), especially if you are interested in my Excel study schedules.
 
 
 
