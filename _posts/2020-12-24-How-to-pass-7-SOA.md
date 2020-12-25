@@ -74,7 +74,7 @@ For me, practice questions have 2 purposes: accustom me to the question types, a
 Why SOA sample question is enough?
 First, those sample questions are prepared by SOA themselves. It is the closest to the real exam questions.
 I even feel that the difficulty level is the same as the real exam.
-Second, ~100 questions can cover almost every concept required in an exam.
+Second, those questions can cover almost every concept required in an exam.
 Since I focus on understanding the material, I don't need to train for every possible variation of the questions.
 I just need to make sure I didn't miss a chapter or misread something.
 
