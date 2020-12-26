@@ -7,4 +7,11 @@
 
   gtag('config', 'G-16WQTPGYVY');
 </script>
+<script>
+  function tag_share_event(event_name, page) {
+    gtag('event', event_name, {
+      'page_title': page
+    });
+  }
+</script>
 <!-- End Google Analytics -->
