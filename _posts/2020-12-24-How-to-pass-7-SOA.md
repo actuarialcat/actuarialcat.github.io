@@ -118,8 +118,9 @@ But there is one thing that I can guarantee: The feeling of success after passin
 
 That is all I have for now.
 I hope my journey through the prelim exams can inspire yours.
-Feel free to connect with me and message me on [LinkedIn](https://www.linkedin.com/in/jackson-leung-805828174/), especially if you are interested in my Excel study schedules.
-
+Feel free to connect with me and message me on 
+<a href="https://www.linkedin.com/in/jackson-leung-805828174/" target="_blank" onclick="tag_share_event('linkedin_portfolio', '{{ page.title }}');">LinkedIn</a>
+, especially if you are interested in my Excel study schedules.
 
 
 
