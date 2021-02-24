@@ -40,7 +40,7 @@ The effective pass rate for each exam can also be found on [Actuarial Lookup](ht
 
 Then, I grab exam salary raise from 
 [Reddit](https://www.reddit.com/r/actuary/wiki/study_program_survey#wiki_society_of_actuaries_respondents).
-I used numbers for John Hancock as an example, but I encourage you to plug in your own numbers as they can vary from company to company.
+I used numbers for John Hancock (aka Manulife) as an example, but I encourage you to plug in your own numbers as they can vary from company to company.
 
 To calculate the NPV, we need to first consider the cash flow of the two options.
 If we take the exams now, we need to pay the exam fee ourselves, but we will have a higher start salary when we graduate if we passed.
