@@ -54,7 +54,7 @@ I personally prefer the first.
 When I study, I focus on understanding the concepts instead of memorizing, because by understanding the concept, all those complicated theories become much more intuitive.
 I can easily derive and adapt my knowledge to any situation. It quickly becomes second nature without much effort.
 On the other hand, if I just memorize a concept, I can't adapt if the question changes a bit.
-Moreover, it always leads to frustration when forgeting something.
+Moreover, it always leads to frustration when forgetting something.
 
 That is the main reason why I never learn from study manuals, they don't fully explain the ideas behind the concepts.
 (And they are too expensive.)
@@ -63,7 +63,7 @@ I was able to find all textbooks either in my university library or online.
 
 When reading textbooks, I have a very simple strategy: read through each chapter twice and only twice.
 During the first time, I highlight key points and try to have a general idea of what the chapter is about.
-During the second time, I make sure I understand each and every concept and summarise them in my notes using my own words.
+During the second time, I make sure I understand each and every concept and summarize them in my notes using my own words.
 There are two benefits to this.
 One, I ensure I digest all concepts and able to present them on my own. If I can present a concept, I can answer exam questions about it.
 Two, I never need to open the textbooks again because I have everything I need in my notes.
@@ -106,7 +106,7 @@ Success doesn’t come easy.
 Passing actuarial exams requires a huge amount of commitment.
 SOA exams are not only a test of intelligence, but also a test of determination.
 
-Moreover, from my perspective, if you pass an exam only by study the questions but not understanding the concepts, you incure a debt.
+Moreover, from my perspective, if you pass an exam only by study the questions but not understanding the concepts, you incur a debt.
 You trade off the ability to understand more difficult concepts later on and will likely struggle in later exams.
 That's why I find building a strong foundation is the most important.
 
