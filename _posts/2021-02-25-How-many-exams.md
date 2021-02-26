@@ -3,10 +3,11 @@ layout: post
 title:  How many exams should you pass before you graduate? Let's do a NPV anaylsis.
 date:   2021-02-25
 categories: [Actuarial, Exams]
+image: /images/article_images/2021-02-25-How-many-exams/exam_NPV.png
 excerpt: One of the most common questions I heard is whether passing more actuarial exams before graduation is good things. Since we are all want be an actuary, let's look at this question in an actuarial way. We will perform a NPV (Net Present Value) anaylsis.
 ---
 
-![NPV of SOA exams](/images/article_images/2021-02-25-How-many-exams/cover.png)
+![NPV of SOA exams](/images/article_images/2021-02-25-How-many-exams/exam_NPV.png)
 
 One of the most common questions I heard is whether passing more actuarial exams before graduation is a good thing.
 Since we all want to be actuaries, let’s look at this question in an actuarial way.
