@@ -6,7 +6,7 @@ categories: [Actuarial, Exams]
 excerpt: One of the most common questions I heard is whether passing more actuarial exams before graduation is good things. Since we are all want be an actuary, let's look at this question in an actuarial way. We will perform a NPV (Net Present Value) anaylsis.
 ---
 
-![NPV of SOA exams](/images/article_images/2021-02-25-How-many-exams/NPV_Exam.png)
+![NPV of SOA exams](/images/article_images/2021-02-25-How-many-exams/cover.png)
 
 One of the most common questions I heard is whether passing more actuarial exams before graduation is a good thing.
 Since we all want to be actuaries, let’s look at this question in an actuarial way.
