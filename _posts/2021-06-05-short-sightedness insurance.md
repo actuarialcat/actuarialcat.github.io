@@ -18,7 +18,7 @@ The theme of the [2021 SOA Student Research Case Study Challenge](https://www.so
 With the new policy, people will be shielded against any financial loss caused by emerging health concerns such as obesity, high cholesterol, and diabetes.
 Under the revolutionary parametric plan, companies can save maintenance costs in today’s highly efficient environment thanks to the straightforward underwriting process and single reimbursement based on a specified triggering event or index.
 
-Team HKU Actuarial Solutions comes from the University of Hong Kong, and it is one of the finalists (Top 6 teams out of 64 teams globally) of this SOA Challenge. 
+Team HKU Actuarial Solutions from the University of Hong Kong is one of the finalists (Top 6 teams out of 64 teams globally) of the SOA Challenge. 
 We have proposed a parametric insurance product NewVision to protect against short-sightedness (also  known as myopia) that is going to worsen as technology becomes more integrated with our life.
 With NewVision, high myopes can be safeguarded from possible vision-related illnesses, such as glaucoma and cataract, that are caused by short-sightedness. 
 
