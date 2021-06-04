@@ -4,7 +4,7 @@ title:  Pricing a parametric short-sightedness insurance -- 2021 SOA Student Res
 date:   2021-06-05
 author: Jackson Leung, Elizabeth Zhu, Elaine Cheng, Kelvin Cheung, Tiffany Wong
 categories: [Actuarial, Projects]
-image: /images/article_images/2021-06-05-Can-love-be-insured/cover.png
+image: /images/article_images/2021-06-05-Short-sightedness insurance/cover.png
 excerpt: Team HKU Actuarial Solutions comes from the University of Hong Kong, and it is one of the finalists (Top 6 teams out of 64 teams globally) of this SOA Challenge. We have proposed a parametric insurance product NewVision to protect against short-sightedness.
 ---
 
