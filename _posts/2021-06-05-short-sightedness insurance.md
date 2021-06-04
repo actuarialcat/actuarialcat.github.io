@@ -90,7 +90,7 @@ For more details, take a look at the original files for NewVision:
 
 - <a href="https://actuarialcat.github.io/SOA_Case_2021/HKU%20Actuarial%20Solutions_NEW%20WORLD%20Parametric%20Insurance%20Report.pdf" target="_blank" onclick="tag_share_event('view_external_file', 'NewVision pricing report');">Pricing Report</a>
 - <a href="https://actuarialcat.github.io/SOA_Case_2021/HKU%20Actuarial%20Solution%20Pricing%20Spreadsheet.xlsm" target="_blank" onclick="tag_share_event('view_external_file', 'NewVision excel');">Pricing Spreadsheet</a>
-- <a href="https://actuarialcat.github.io/SOA_Case_2021/HKU%20Actuarial%20Solution%20Pricing%20Spreadsheet.xlsm" target="_blank" onclick="tag_share_event('view_external_file', 'NewVision slides');">Presentation Slides</a>
+- <a href="https://actuarialcat.github.io/SOA_Case_2021/HKU%20Actuarial%20Solutions_PPT.pdf" target="_blank" onclick="tag_share_event('view_external_file', 'NewVision slides');">Presentation Slides</a>
 
 
 Remember to connect with us on LinkedIn:
