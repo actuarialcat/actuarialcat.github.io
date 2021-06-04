@@ -10,7 +10,6 @@ excerpt: Team HKU Actuarial Solutions comes from the University of Hong Kong, an
 
 ![Parametric short-sightedness insurance cover art](/images/article_images/2021-06-05-Short-sightedness insurance/cover.png)
 
-# DRAFT, DO NOT REDISTRIBUTE
 
 COVID-19 broke out in practically every corner of the planet in 2020, making it a year of public health. 
 Whether ordinary citizens or government elites, people have become increasingly concerned about their own physical conditions, public healthcare systems, and related health risks that may be induced by the broader epidemic or individual unhealthy lifestyles.  
