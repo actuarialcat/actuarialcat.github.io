@@ -29,12 +29,10 @@ With NewVision, high myopes can be safeguarded from possible vision-related illn
 We have followed a brainstorming checklist we had come up with in our last project, [Marriversary - divorce endowment insurance](https://actuarialcat.github.io/Marriversary/).
 This four-section list ensures that our ideas are realistic and feasible. 
 
-<p>&nbsp;</p>
 
 First and foremost, we constructed a **product description** by defining the underlying risk to be insured by the product.
 We also laid out possible cash flows of the product.
 
-<p>&nbsp;</p>
 
 Then, we reviewed the insurability of the brainstormed ideas, which is known as **actuarial considerations**.
 Considerations include whether the risk event is objectively measurable and diversifiable, any possible scenario of adverse selection or moral hazard, etc. 
@@ -46,7 +44,6 @@ Access to data is also critical to ensure the brainstormed idea is feasible to p
 However, we are provided with a limited amount of data since we are unable to obtain a comprehensive database besides academic journals available, which negatively affects underwriting as well.
 Therefore, we limit the coverage of this policy to newborns so that population data can be used to price the product. 
 
-<p>&nbsp;</p>
 
 The third section is **business considerations**. 
 Marketing is essential to achieve targeted profit.
@@ -54,7 +51,6 @@ We looked into customer's demands and other similar products in the existing mar
 NewVision, in particular, is the first-ever parametric insurance product that covers vision care, so we do not face any competitors.
 We also targeted parents and parents-to-be by creating NewVision as an insurance product that protects a child’s vision. 
 
-<p>&nbsp;</p>
 
 Last but not least, we also consider possible **product variations**.
 During this stage, we asked ourselves what could be changed, and whether alternatives would be better to justify that the original idea is best among similar products.
