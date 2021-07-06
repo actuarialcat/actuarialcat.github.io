@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello! I am a final year actuarial science student in Hong Kong.
+Hello! I am a entry-level actuary in Hong Kong.
 
-This blog is mainly about the projects I completed and some ideas related to the actuarial field. 
+This blog is mainly about my side projects and some ideas related to the actuarial field. 
 
 Check out my
 <a href="https://github.com/actuarialcat" target="_blank" onclick="tag_share_event('github_portfolio', '{{ page.title }}');">Github</a>
