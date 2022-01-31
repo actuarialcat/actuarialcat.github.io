@@ -123,9 +123,9 @@ Feel free to connect with me and message me on
 
 You can download my schedule templates here:
 
-- <a href="/files/2020-12-24-How-to-pass-7-SOA/Timetable Template.xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');"><b>Timetable Template</b></a>.
-- <a href="/files/2020-12-24-How-to-pass-7-SOA/STAM Timetable (Example).xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');"><b>STAM Timetable (Example)</b></a>.
-- <a href="/files/2020-12-24-How-to-pass-7-SOA/LTAM Timetable (Example).xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');"><b>LTAM Timetable (Example)</b></a>.
+- <a href="/files/2020-12-24-How-to-pass-7-SOA/Timetable Template.xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');">Timetable Template</a>.
+- <a href="/files/2020-12-24-How-to-pass-7-SOA/STAM Timetable (Example).xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');">STAM Timetable (Example)</a>.
+- <a href="/files/2020-12-24-How-to-pass-7-SOA/LTAM Timetable (Example).xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');">LTAM Timetable (Example)</a>.
 
 
 
