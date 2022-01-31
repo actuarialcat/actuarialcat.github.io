@@ -118,9 +118,15 @@ But there is one thing that I can guarantee: The feeling of success after passin
 
 That is all I have for now.
 I hope my journey through the prelim exams can inspire yours.
+
+You can download my schedule templates here:
+
+- <a href="/files/2020-12-24-How-to-pass-7-SOA/Timetable Template.xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');"><b>here</b></a>.
+- <a href="/files/2020-12-24-How-to-pass-7-SOA/STAM Timetable (Example).xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');"><b>here</b></a>.
+- <a href="/files/2020-12-24-How-to-pass-7-SOA/LTAM Timetable (Example).xlsx" target="_blank" onclick="tag_share_event('view_external_file', 'How-to-pass-7-SOA template');"><b>here</b></a>.
+
 Feel free to connect with me and message me on 
-<a href="https://www.linkedin.com/in/jackson-leung-805828174/" target="_blank" onclick="tag_share_event('linkedin_portfolio', '{{ page.title }}');">LinkedIn</a>
-, especially if you are interested in my Excel study schedules.
+<a href="https://www.linkedin.com/in/jackson-leung-805828174/" target="_blank" onclick="tag_share_event('linkedin_portfolio', '{{ page.title }}');">LinkedIn</a>.
 
 
 
